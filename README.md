@@ -3,8 +3,7 @@
 
 ### TASK:1 Stock Price Prediction
 
-Take stock price of any company you want and predicts its price by using LSTM.
-Use only Jupyter notebook code.
+I'll be using Netflix stock price data. The data is then preprocessed by normalising it and dividing it into training and testing sets. Following that, we construct an LSTM model, train it on training data, and make predictions on testing data. Finally, we compute and visualise the Mean Absolute Error (MAE) as a performance metric.
 
   
 ### TASK:2 Titanic Classification Predication 📈
