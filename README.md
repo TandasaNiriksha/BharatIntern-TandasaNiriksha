@@ -1,6 +1,12 @@
 # BharatIntern-TandasaNiriksha
 # **Intern_DataScience**
 
+### TASK:1 Stock Price Prediction
+
+Take stock price of any company you want and predicts its price by using LSTM.
+Use only Jupyter notebook code.
+
+  
 ### TASK:2 Titanic Classification Predication 📈
 
 Predicting the Survival of Titanic Passengers:
